@@ -1,7 +1,7 @@
 # LLM
 ## Simple LLM using Llama_2
 
-##Llama 2
+Llama 2
 Llama 2 is a collection of pretrained and fine-tuned generative text models ranging in scale from 7 billion to 70 billion parameters. This is the repository for the 13B fine-tuned model, optimized for dialogue use cases. Links to other models can be found in the index at the bottom.
 
 Model Details
